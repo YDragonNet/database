@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-10-08",
+  "main": "src/index.ts",
+  "name": "database",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "da55863b-84a9-4ccb-b4af-9d933fe5707f",
+      "database_name": "netdragon_db"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
